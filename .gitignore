@@ -1,0 +1,8 @@
+# 全ての.jpgと.txtをgitの管理下から外す
+*.jpg
+*.txt
+!labels_correlogram.jpg
+!labels.jpg
+!train_batch0.jpg
+!train_batch1.jpg
+!train_batch2.jpg
